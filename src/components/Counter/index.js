@@ -25,6 +25,7 @@ class Counter extends Component {
           <button onClick={this.onDecrement} className="button-red">
             Decrease
           </button>
+
           <button onClick={this.onIncrement} className="button-green">
             Increase
           </button>
